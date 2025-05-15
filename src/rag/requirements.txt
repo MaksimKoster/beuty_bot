@@ -1,0 +1,6 @@
+tqdm
+qdrant_client
+json_repair
+tqdm
+pandas
+fastembed

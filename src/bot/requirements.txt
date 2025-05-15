@@ -1,0 +1,9 @@
+tqdm
+qdrant_client
+json_repair
+tqdm
+pandas
+fastembed
+langchain
+langchain-gigachat
+streamlit
